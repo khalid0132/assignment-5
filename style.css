@@ -1,0 +1,14 @@
+body{
+    background: rgb(233, 233, 17);
+}
+#meal_list{
+    border: 1px solid black;
+    width: 200px;
+    border-radius: 10px;
+    padding: 20px;
+    margin: 10px;
+    background: url('https://www.themealdb.com/images/ingredients/Lime.png');
+}
+#input_button{
+    text-align: center;
+}
